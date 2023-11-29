@@ -1,0 +1,23 @@
+.black-background {
+    background-color: black;
+  }
+  
+  .white-background {
+    background-color: white;
+  }
+  
+
+  h1 {
+    color: white;
+    border: 10cm;
+    text-align: center;
+    text-shadow: 3cm;
+    text-decoration: blue;
+    
+}
+h2{
+    text-align: center;
+    color:blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
